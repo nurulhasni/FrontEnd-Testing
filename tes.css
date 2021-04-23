@@ -43,9 +43,12 @@ header {
 }
 
 .file-name {
-    text-transform: uppercase;
     color : #00F;
     font-weight: bold;
+}
+
+#my-name {
+  text-transform: uppercase;
 }
 
 
