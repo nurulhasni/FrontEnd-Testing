@@ -1,0 +1,52 @@
+body {
+    font-family: Arial;
+}
+.question {
+    margin-bottom: 60px;
+}
+.question .description {
+    font-size: 18px;
+}
+
+/********************************
+ * QUESTION 5.
+ *******************************/
+.q5-wrapper {
+    background: #EFEFEF;
+}
+.q5-wrapper .q5-block {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: #333;
+}
+
+.q5-wrapper .q5-block-l {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: #00FF00;
+}
+
+/********************************
+ * QUESTION 6.
+ *******************************/
+header {
+    background: #F00;
+    color : #FFF;
+    text-align : center;
+}
+.header {
+    background: #F00;
+    color : #FFF;
+    text-align : center;
+}
+
+.file-name {
+    text-transform: uppercase;
+    color : #00F;
+    font-weight: bold;
+}
+
+
+
